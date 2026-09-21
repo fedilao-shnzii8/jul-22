@@ -1,0 +1,12 @@
+[
+  {
+    "id": "jul-22-7344-primary",
+    "state": "ready",
+    "revision": 1203
+  },
+  {
+    "id": "jul-22-7344-empty",
+    "state": "empty",
+    "revision": 1204
+  }
+]
