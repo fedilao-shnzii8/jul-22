@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "jul226191OutputEnvelope",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "namespace",
+    "variant"
+  ],
+  "properties": {
+    "namespace": {
+      "type": "string"
+    },
+    "variant": {
+      "type": "string"
+    },
+    "revision": {
+      "type": "integer"
+    }
+  }
+}
