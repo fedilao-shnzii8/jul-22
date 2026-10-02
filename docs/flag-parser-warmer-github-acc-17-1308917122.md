@@ -1,5 +1,5 @@
 # flag-parser
 
-This types establishes command flag parsing for jul-22-1257.
+This types establishes command flag parsing for jul-22-9980.
 
-Revision 1 refines the boundary with profile-specific defaults and examples.
+Revision 2 refines the boundary with profile-specific defaults and examples.
