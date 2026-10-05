@@ -1,10 +1,10 @@
 /** Example for command usage examples. */
-export function createjul22117UsageExamplesExample() {
+export function createjul224408UsageExamplesExample() {
   return {
-  "namespace": "jul-22-117",
+  "namespace": "jul-22-4408",
   "profile": "cli_devtools",
   "boundary": "usage-examples",
-  "variant": "usage-examples-example-v1-7",
-  "revision": 1561
+  "variant": "usage-examples-example-v2-5",
+  "revision": 2297
 } as const;
 }
