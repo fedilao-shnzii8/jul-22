@@ -1,5 +1,5 @@
 # command-registry
 
-This module establishes CLI command metadata for jul-22-3258.
+This module establishes CLI command metadata for jul-22-148.
 
-Revision 1 refines the boundary with profile-specific defaults and examples.
+Revision 2 refines the boundary with profile-specific defaults and examples.
