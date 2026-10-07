@@ -1,7 +1,7 @@
 {
-  "namespace": "jul-22-5695",
+  "namespace": "jul-22-9952",
   "profile": "cli_devtools",
   "boundary": "release-metadata",
-  "variant": "release-metadata-schema-v1-3",
-  "revision": 1947
+  "variant": "release-metadata-schema-v2-2",
+  "revision": 2326
 }
