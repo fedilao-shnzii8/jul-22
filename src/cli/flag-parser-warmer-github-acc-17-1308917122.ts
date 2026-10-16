@@ -1,14 +1,14 @@
 /** command flag parsing. */
-export interface jul229980FlagParserConfig {
+export interface jul221938FlagParserConfig {
   namespace: string;
   variant: string;
   revision: number;
 }
 
-export const defaultjul229980FlagParser: jul229980FlagParserConfig = {
-  "namespace": "jul-22-9980",
+export const defaultjul221938FlagParser: jul221938FlagParserConfig = {
+  "namespace": "jul-22-1938",
   "profile": "cli_devtools",
   "boundary": "flag-parser",
-  "variant": "flag-parser-types-v2-4",
-  "revision": 2179
+  "variant": "flag-parser-types-v3-5",
+  "revision": 3888
 };
