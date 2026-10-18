@@ -1,9 +1,9 @@
 {
-  "namespace": "jul-22-6800",
+  "namespace": "jul-22-6075",
   "profile": "cli_devtools",
   "boundary": "workspace-config",
-  "variant": "workspace-config-config-v2-7",
-  "revision": 2439,
+  "variant": "workspace-config-config-v3-6",
+  "revision": 3431,
   "enabled": true,
   "mode": "balanced"
 }
