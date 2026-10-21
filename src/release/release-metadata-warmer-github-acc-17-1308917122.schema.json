@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "jul229952ReleaseMetadata",
+  "title": "jul226800ReleaseMetadata",
   "type": "object",
   "additionalProperties": false,
   "required": [

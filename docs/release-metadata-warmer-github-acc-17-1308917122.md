@@ -1,5 +1,5 @@
 # release-metadata
 
-This schema establishes tool release metadata for jul-22-9952.
+This schema establishes tool release metadata for jul-22-6800.
 
-Revision 2 refines the boundary with profile-specific defaults and examples.
+Revision 3 refines the boundary with profile-specific defaults and examples.
