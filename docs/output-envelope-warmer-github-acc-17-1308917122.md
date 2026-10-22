@@ -1,5 +1,5 @@
 # output-envelope
 
-This schema establishes structured command output for jul-22-472.
+This schema establishes structured command output for jul-22-6457.
 
-Revision 3 refines the boundary with profile-specific defaults and examples.
+Revision 4 refines the boundary with profile-specific defaults and examples.

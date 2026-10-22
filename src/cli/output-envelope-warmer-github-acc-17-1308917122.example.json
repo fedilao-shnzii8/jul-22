@@ -1,7 +1,7 @@
 {
-  "namespace": "jul-22-472",
+  "namespace": "jul-22-6457",
   "profile": "cli_devtools",
   "boundary": "output-envelope",
-  "variant": "output-envelope-schema-v3-7",
-  "revision": 3540
+  "variant": "output-envelope-schema-v4-3",
+  "revision": 4192
 }
