@@ -1,5 +1,5 @@
 # cli-fixtures
 
-This fixture establishes CLI invocation fixtures for jul-22-3953.
+This fixture establishes CLI invocation fixtures for jul-22-503.
 
-Revision 4 refines the boundary with profile-specific defaults and examples.
+Revision 5 refines the boundary with profile-specific defaults and examples.
