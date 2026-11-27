@@ -1,5 +1,5 @@
 # command-errors
 
-This fixture establishes command error categories for jul-22-9364.
+This fixture establishes command error categories for jul-22-6516.
 
-Revision 5 refines the boundary with profile-specific defaults and examples.
+Revision 6 refines the boundary with profile-specific defaults and examples.
